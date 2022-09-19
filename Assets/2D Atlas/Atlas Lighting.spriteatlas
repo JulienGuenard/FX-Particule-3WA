@@ -44,10 +44,6 @@ SpriteAtlas:
     secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
-    - {fileID: 21300000, guid: 1ee05fa7679d92f42be0a85989b9871e, type: 3}
-    - {fileID: 21300000, guid: 467f39d42b735f24098103964078a18f, type: 3}
-    - {fileID: 21300000, guid: 47ae70cf387ca2542a32b87653aa42ab, type: 3}
-    - {fileID: 21300000, guid: 10b6f841ce11ce349ab5a3a789b0e4a2, type: 3}
     - {fileID: 21300000, guid: 87709fcac372cbd4396c41d5515e0f8f, type: 3}
     - {fileID: 21300000, guid: d1e55d1010bc4fe4385908735d897e28, type: 3}
     bindAsDefault: 1
@@ -56,18 +52,10 @@ SpriteAtlas:
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
   - {fileID: 21300000, guid: d1e55d1010bc4fe4385908735d897e28, type: 3}
-  - {fileID: 21300000, guid: 10b6f841ce11ce349ab5a3a789b0e4a2, type: 3}
-  - {fileID: 21300000, guid: 467f39d42b735f24098103964078a18f, type: 3}
-  - {fileID: 21300000, guid: 1ee05fa7679d92f42be0a85989b9871e, type: 3}
   - {fileID: 21300000, guid: 87709fcac372cbd4396c41d5515e0f8f, type: 3}
-  - {fileID: 21300000, guid: 47ae70cf387ca2542a32b87653aa42ab, type: 3}
   m_PackedSpriteNamesToIndex:
   - spark_06
-  - spark_04
-  - spark_02
-  - spark_01
   - spark_05
-  - spark_03
   m_RenderDataMap: {}
-  m_Tag: Atlas 2D
+  m_Tag: Atlas Lighting
   m_IsVariant: 0
